@@ -1,0 +1,4 @@
+com\yerke\notes\controller\NoteControllerTest.class
+com\yerke\notes\model\NoteTest.class
+com\yerke\notes\repository\NoteRepositoryTest.class
+com\yerke\notes\ApplicationTests.class

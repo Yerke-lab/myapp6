@@ -1,0 +1,6 @@
+com\config\WebConfig.class
+com\yerke\notes\model\Note.class
+com\yerke\notes\controller\NoteController.class
+com\config\CorsConfig.class
+com\yerke\notes\Application.class
+com\yerke\notes\repository\NoteRepository.class
